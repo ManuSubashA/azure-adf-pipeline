@@ -1,0 +1,15 @@
+{
+	"name": "DataFactoryHCL",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "13bea816-7f44-41b0-8534-95559c0630cd",
+		"tenantId": "c3d02373-f215-49c3-a04b-75e499039ad9"
+	}
+}
